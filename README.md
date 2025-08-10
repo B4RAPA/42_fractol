@@ -3,7 +3,7 @@ fract-ol - Project at 42 school (42 Wolfsburg)
 
 ![Bonus Completed](https://img.shields.io/badge/bonus-completed-brightgreen)
 <h1 align="center">
-	🌌 Libft
+	🌌 Fract-ol
 </h1>
 
 <p align="center">
@@ -11,11 +11,11 @@ fract-ol - Project at 42 school (42 Wolfsburg)
 </p>
 
 <h3 align="center">
-	<a href="#-about-the-project">📌 About</a>
+	<a href="#-about-the-project"> About</a>
 	<span> · </span>
-	<a href="#-usage">🚀 Usage</a>
+	<a href="#-usage"> Usage</a>
 	<span> · </span>
-	<a href="#-what-i-learned">📚 What I Learned</a>
+	<a href="#-what-i-learned"> What I Learned</a>
 </h3>
 
 ---
