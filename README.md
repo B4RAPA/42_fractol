@@ -22,7 +22,7 @@ fract-ol - Project at 42 school (42 Wolfsburg)
 
 ## 💡 About the project
 
-> _Fractol is an individual project of the 42 Core, focussed on the graphical visualization of the complex numbers of an iterativ mathematical construct. A fractal is a fragmented geometrical figure that infinitely repeats itself at smaller scales. This project uses the school's graphical library, MiniLibX_
+> _Fractol is an individual project of the 42 Core, focussed on the graphical visualization of the complex numbers of an iterative mathematical construct. A fractal is a fragmented geometrical figure that infinitely repeats itself at smaller scales. This project uses the school's graphical library, MiniLibX_
 
 #### 🚀 Bonus
 - [x] extra fractal (Burning Ship)
